@@ -1,2 +1,1 @@
-# c-calculator
-A simple command-line calculator written in c for basic arithmetic operations.
+C Calculator is a simple command-line calculator written in C. To use it, install a C compiler such as GCC, open a terminal or Command Prompt in the folder containing calculator.c, and compile the program with gcc calculator.c -o calculator (on Windows, you can use gcc calculator.c -o calculator.exe). Run it on Windows by typing calculator.exe, or on Linux and macOS by typing ./calculator. The calculator supports the arithmetic operations implemented in the source code.
